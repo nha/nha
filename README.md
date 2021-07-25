@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**nha/nha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am @nha, French software developer.
 
-Here are some ideas to get you started:
+Tech I like: Apache Pulsar, Clojure and the JVM, Node.js and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my OSS contributions:
+
+- [Onyx](https://github.com/onyx-platform/onyx#contributor-list ) - distributed computing 
+- [Yada](https://github.com/juxt/yada#acknowledgments) - asynchronous web server that does HTTP right in my opinion 
+- [bid](https://github.com/juxt/bidi#contributing) - bidirectional web routing - an interesting idea that would benefit from more exposure
+
+<a href="https://stackexchange.com/users/1398355"><img src="https://stackexchange.com/users/flair/1398355.png" width="208" height="58" alt="profile for nha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+smaller OSS contributions:
+- https://github.com/r0man/sablono/pull/99
+- https://github.com/babashka/process/pull/45
