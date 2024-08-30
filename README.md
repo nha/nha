@@ -2,7 +2,7 @@
 
 I am @nha, French software developer.
 
-Tech I like: Clojure and the JVM, Node.js and React, FoundationDB and Apache Pulsar.
+Tech I like: Clojure and the JVM, FoundationDB and Apache Pulsar, Node.js/Typescript/Sveltekit.
 
 Some of my OSS contributions:
 
