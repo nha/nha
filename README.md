@@ -2,7 +2,7 @@
 
 I am @nha, French software developer.
 
-Tech I like: Clojure and the JVM, FoundationDB and Apache Pulsar, Node.js/Typescript/Sveltekit.
+Tech I like: Clojure and the JVM, FoundationDB and Apache Pulsar, Node.js/Typescript/React.js/Sveltekit.
 
 Some of my OSS contributions:
 
@@ -15,3 +15,5 @@ Some of my OSS contributions:
 smaller OSS contributions:
 - https://github.com/r0man/sablono/pull/99
 - https://github.com/babashka/process/pull/45
+
+Silly project: [Only Cats](https://onlyc.at/) - Sveltekit experiment
